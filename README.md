@@ -5,7 +5,7 @@
 Scarla Rodriguez #16
 
 * [x] Crear cuenta en GitHub
-* [x] Crear un repositorio en GitHub - Nombre del repo = js-curso-23-5B.
+* [x] Crear un repositorio en GitHub - Nombre del repo = js-curso-16-5B.
 * [x] Cambiar el nombre de mi rama local master -> main.
 * [x] Agregar cambios a la zona de preparacion **git add**
 * [x] Confirmar los cambios **git commit -am "primer commit remoto**
