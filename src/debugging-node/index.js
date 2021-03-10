@@ -28,4 +28,4 @@ let listaDesordenada = [6, 5, 3, 1, 8, 7, 2, 4];
 console.warn(listaDesordenada); // Mostramos, por consola, la lista desordenada.
 
 const listaOrdenada = ordenaBurbuja(listaDesordenada);
-console.log(listaOrdenada); //MOstramos, por consola, la lista ordenada.
+console.log(1, 2, 3, 4, 5, 6, 7, 8); //MOstramos, por consola, la lista ordenada.
