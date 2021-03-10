@@ -1,4 +1,4 @@
-// Scarla Elisa Rodriguez Reynoso #16
+// Scarla Rodriguez 23
 
 function repetir(nombre, veces) {
 
